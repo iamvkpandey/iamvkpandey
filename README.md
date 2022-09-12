@@ -4,7 +4,7 @@
 </h1>
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?size=27&pause=1000&center=true&vCenter=true&width=700&lines=Data+Scientist+by+Profession+%F0%9F%98%8E;Mechatronics+Engineer+by+Education+%F0%9F%A4%96;Experienced+Automotive+Product+Lead+%F0%9F%8F%8E%EF%B8%8F;apt+update+%26+apt+upgrade+-y+in+Loop+%F0%9F%94%81" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?size=27&pause=1000&center=true&vCenter=true&width=700&lines=Data+Scientist+by+Profession+%F0%9F%98%8E;Mechanical+Engineer+by+Education+%F0%9F%A4%96;Experienced+DaTa+Analyst+%F0%9F%8F%8E%EF%B8%8F;apt+update+%26+apt+upgrade+-y+in+Loop+%F0%9F%94%81" alt="Typing SVG" /></a>
 </p>
 
 <h2 align="center">Let's Connect:<img src="img\handshake.gif" height="32px"></h2>
