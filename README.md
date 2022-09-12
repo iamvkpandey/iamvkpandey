@@ -11,9 +11,9 @@
 
 
 <h3 align="center">
-  <code><a href="https://www.linkedin.com/in/basantsinghbhaskar/" title="LinkedIn Profile"><img height="22" width="22" src="img\linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.linkedin.com/in/itsmevikaspandey/" title="LinkedIn Profile"><img height="22" width="22" src="img\linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.kaggle.com/basantsinghbhaskar/" title="kaggle Profile"><img height="22" width="22" src="img\kaggle.svg"> Kaggle</a></code>
-  <code><a href="https://www.instagram.com/basant_singh_bhaskar/" title="Instagram Profile"><img height="22" width="22" src="img\instagram.svg"> Instagram</a></code>
+  <code><a href="https://www.instagram.com/itsmevikaspandey/" title="Instagram Profile"><img height="22" width="22" src="img\instagram.svg"> Instagram</a></code>
 </h3>
 
 <br><br><br>
