@@ -15,11 +15,10 @@ Ask me anything <a href="https://github.com/iamvkpandey/iamvkpandey/issues/new">
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
 
-- **I'm a Developer | Programmer | Learner**<br/>   
-- **I love building things especially webservices using JavaScript and Go.** <br/>
-- **I'm on track for learning distributed systems.** <br/>
-- **In my free time, I pursue Graphic Design (side hustles).** <br/>
-- Ask me about anything [here](https://github.com/ditikrushna/ditikrushna/issues/new)<br/> 
+- **I'm a Data Scientist | Programmer | Learner**<br/>   
+- **I love building things especially ML & CV projects using Python.** <br/>
+- **I'm on track for learning NLP.** <br/>
+- Ask me about anything [here](https://github.com/iamvkpandey/iamvkpandey/issues/new)<br/> 
 
 <h2 align="center">Let's Connect:<img src="img\handshake.gif" height="32px"></h2>
 
