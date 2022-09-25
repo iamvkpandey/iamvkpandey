@@ -1,11 +1,25 @@
-<h1 align="center">
-  Welcome to Vikas Pandey's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-</h1>
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?size=27&pause=1000&center=true&vCenter=true&width=700&lines=Data+Scientist+by+Profession+%F0%9F%98%8E;Mechanical+Engineer+by+Education+%F0%9F%A4%96;Experienced+Data+Analyst+%F0%9F%8F%8E%EF%B8%8F;apt+update+%26+apt+upgrade+-y+in+Loop+%F0%9F%94%81" alt="Typing SVG" /></a>
-</p>
+<h1 align="center">Hi 👋, I'm Vikas Pandey </h1>
+<h3 align="center">A Data Scientist from India</h3>
+ 
+<div align="center">
+You have finally discovered my Github profile. <br>
+Please feel free to clone projects, raise issues and submit PRs if you think something could be better. <br>
+Ask me anything <a href="https://github.com/iamvkpandey/iamvkpandey/issues/new"><b>here</b></a><br>
+
+<i>Happy Coding!</i> 😊
+</div>
+
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
+
+</br>
+
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
+
+- **I'm a Developer | Programmer | Learner**<br/>   
+- **I love building things especially webservices using JavaScript and Go.** <br/>
+- **I'm on track for learning distributed systems.** <br/>
+- **In my free time, I pursue Graphic Design (side hustles).** <br/>
+- Ask me about anything [here](https://github.com/ditikrushna/ditikrushna/issues/new)<br/> 
 
 <h2 align="center">Let's Connect:<img src="img\handshake.gif" height="32px"></h2>
 
