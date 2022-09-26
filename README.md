@@ -20,6 +20,8 @@ Ask me anything <a href="https://github.com/iamvkpandey/iamvkpandey/issues/new">
 - **I'm on track for learning NLP.** <br/>
 - Ask me about anything [here](https://github.com/iamvkpandey/iamvkpandey/issues/new)<br/> 
 
+</br></br>
+
 <h2 align="center">Let's Connect:<img src="img\handshake.gif" height="32px"></h2>
 
 
