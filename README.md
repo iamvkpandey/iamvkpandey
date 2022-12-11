@@ -4,7 +4,7 @@
 <div align="center">
 You have finally discovered my Github profile. <br>
 Please feel free to clone projects, raise issues and submit PRs if you think something could be better. <br>
-Ask me anything <a href="https://github.com/iamvkpandey/iamvkpandey/issues/new"><b>here</b></a><br>
+Ask me anything <a href="https://github.com/itsvikaspandey/issues/new"><b>here</b></a><br>
 
 <i>Happy Coding!</i> 😊
 </div>
@@ -18,7 +18,7 @@ Ask me anything <a href="https://github.com/iamvkpandey/iamvkpandey/issues/new">
 - **I'm a Data Scientist | Programmer | Learner**<br/>   
 - **I love building things especially ML & CV projects using Python.** <br/>
 - **I'm on track for learning NLP.** <br/>
-- Ask me about anything [here](https://github.com/iamvkpandey/iamvkpandey/issues/new)<br/> 
+- Ask me about anything [here](https://github.com/itsvikaspandey/itsvikaspandey/issues/new)<br/> 
 
 </br></br>
 
@@ -26,7 +26,7 @@ Ask me anything <a href="https://github.com/iamvkpandey/iamvkpandey/issues/new">
 
 
 <h3 align="center">
-  <code><a href="https://www.linkedin.com/in/itsmevikaspandey/" title="LinkedIn Profile"><img height="22" width="22" src="img\linkedin.svg"> LinkedIn</a></code>
+  <code><a https://www.linkedin.com/in/itsvikaspandey/" title="LinkedIn Profile"><img height="22" width="22" src="img\linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.kaggle.com/itsmevkpandey/" title="kaggle Profile"><img height="22" width="22" src="img\kaggle.svg"> Kaggle</a></code>
   <code><a href="https://www.instagram.com/itsmevikaspandey/" title="Instagram Profile"><img height="22" width="22" src="img\instagram.svg"> Instagram</a></code>
 </h3>
