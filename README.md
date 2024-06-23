@@ -51,6 +51,6 @@ Ask me anything <a href="https://github.com/itsvikaspandey/itsvikaspandey/issues
 </h3> <br> <br> <br>
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=iamvkpandey&show_icons=true&theme=dark" width = 700 /><br><br>
-  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=iamvkpandey&theme=dark&hide_border=true" width = 700 />
+  <img src = "https://github-readme-stats.vercel.app/api?username=itsvikaspandey&show_icons=true&theme=dark" width = 700 /><br><br>
+  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=itsvikaspandey&theme=dark&hide_border=true" width = 700 />
 </p>
