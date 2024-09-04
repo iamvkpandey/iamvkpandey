@@ -15,9 +15,8 @@ Ask me anything <a href="https://github.com/itsvikaspandey/itsvikaspandey/issues
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
 
-- **I'm a Data Scientist | Programmer | Learner**<br/>   
-- **I love building things especially ML & NLP projects using Python.** <br/>
-- **I'm on track for learning LLMs.** <br/>
+- **I'm a NLP Researcher | Programmer | Learner**<br/>   
+- **I love building things especially ML, NLP & Gen AI projects using Python.** <br/>
 - Ask me about anything [here](https://github.com/itsvikaspandey/itsvikaspandey/issues/new)<br/> 
 
 </br></br>
