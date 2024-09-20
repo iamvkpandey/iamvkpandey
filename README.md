@@ -27,7 +27,7 @@ Ask me anything <a href="https://github.com/itsvikaspandey/itsvikaspandey/issues
 <h3 align="center">
   <code><a href="https://www.linkedin.com/in/itsvikaspandey/" title="LinkedIn Profile"><img height="22" width="22" src="img\linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.kaggle.com/itsmevkpandey/" title="kaggle Profile"><img height="22" width="22" src="img\kaggle.svg"> Kaggle</a></code>
-  <code><a href="https://www.instagram.com/itsmevikaspandey/" title="Instagram Profile"><img height="22" width="22" src="img\instagram.svg"> Instagram</a></code>
+  <code><a href="https://www.instagram.com/vikas.p1212/" title="Instagram Profile"><img height="22" width="22" src="img\instagram.svg"> Instagram</a></code>
 </h3>
 
 <br><br><br>
